@@ -1,0 +1,74 @@
+:root {
+    /* colers */
+    --color-primary: #6c63ff;
+    --color-success: #00bf8e;
+    --color-warning: #f7c9b4;
+    --color-danger: #f75842;
+    --color-danger-variant: #rgba (247, 88, 66, 0.4);
+    --color-white: #fff;
+    --color-light: #rgba (255, 255, 255, 0.7);
+    --color-black: #000;
+    --color-bg: #1f2641;
+    --color-bg1: #2e5d67;
+    --color-bg2: #424890;
+    /* Containers for the various screen sizes */
+    --container-width-lg: 80%;
+    --container-width-md: 90%;
+    --container-width-sm: 94%;
+    /* Transitoins */
+    --transition: all 400ms ease;
+}
+
+.navbar {
+    background-color: #1f2641;
+    text-decoration: none;
+}
+
+nav {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    list-style: none;
+    box-sizing: border-box;
+    top: 0;
+    width: 100vw;
+    height: 5rem;
+    color: white;
+}
+
+.nav__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 10% 20% 70%;
+}
+
+.menu__btn {
+    display: inline-block;
+    background: transparent;
+    font-size: 2rem;
+    color: var(--color-white);
+}
+
+.nav__menu {
+    align-items: center;
+    display: flex;
+    gap: 6rem;
+    /* padding-right: 5rem; */
+}
+
+.nav__menu a {
+    font-size: 1.2rem;
+    transition: var(--transition);
+}
+
+.nav__menu a:hover {
+    color: var(--color-success);
+}
+
+.menu__out {
+    display: none;
+}
