@@ -5,23 +5,7 @@ function MainBody() {
     <div>
       <h1 className="w-50 h-50 bg-success">This is the main body</h1>
       <p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde ea eaque
-        similique est, obcaecati minima rerum atque suscipit rem saepe nisi
-        facilis incidunt minus! Nobis temporibus deserunt ipsa at qui error iure
-        architecto laudantium autem dolores consectetur natus molestiae quam
-        aspernatur laborum, voluptatem nam tempora ex eum, perferendis quo non
-        porro? Rem modi odit nam, facilis veritatis alias reprehenderit
-        molestiae earum impedit vitae totam repudiandae, repellendus ab maiores
-        saepe repellat molestias neque dolorem, vel non cum. Dignissimos
-        assumenda esse in, recusandae sed quis saepe aspernatur porro laudantium
-        corrupti voluptatibus, doloremque voluptatem voluptates veritatis animi
-        nesciunt eius odio vitae suscipit optio quae. Molestias alias
-        cupiditate, provident ullam itaque nisi beatae qui hic reiciendis
-        eligendi dolores ab harum nulla, officiis similique temporibus pariatur
-        cumque asperiores maxime natus fuga. Esse aspernatur magni vero optio
-        consectetur! Possimus at ipsam eaque dignissimos, facere ea rerum
-        blanditiis quasi tempore inventore ullam molestiae reiciendis laboriosam
-        perspiciatis alias.
+       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, eveniet ad explicabo quibusdam modi sequi adipisci, molestias impedit excepturi, hic est labore perferendis temporibus ea neque doloremque non officia esse necessitatibus ducimus! Iusto explicabo, quae quibusdam dolorum, beatae rem neque nostrum veniam corporis libero ab eaque illo deleniti repellendus quidem ut laborum praesentium! Quas fuga aperiam nam magni, vitae consectetur animi modi error earum odio dicta odit, consequatur tempora et eius deserunt! Sunt, optio? Sapiente illum nobis ut reiciendis quia facere quisquam ipsum. Quisquam repellat aperiam quam, ad voluptate laudantium dolore? Tenetur maxime cumque sapiente porro quasi delectus eius ea ab incidunt id mollitia, nesciunt officiis suscipit praesentium magnam sint! Ullam sapiente nemo id odit dolorem assumenda dignissimos, voluptas error magnam accusantium accusamus perspiciatis inventore delectus enim voluptatibus ea! Fugiat vitae assumenda rerum, corporis voluptate ducimus cumque distinctio cupiditate suscipit dicta tempore a minima voluptates obcaecati ipsam sunt doloribus corrupti dolor dolores. Dolorem voluptate vero rerum ratione. Necessitatibus earum suscipit, voluptatibus magni assumenda ea veniam quae aut ipsa ullam voluptatem nihil esse. Voluptatum dolor cupiditate animi. Non excepturi, sit sed, cupiditate iusto necessitatibus laudantium tenetur accusantium delectus nesciunt at doloribus atque enim, quod animi officia itaque dolores! Quia maiores animi, sit asperiores voluptates odio consequatur, modi aspernatur mollitia ut perspiciatis eius magni officiis nisi hic libero esse tempora illo sed repellendus unde quis maxime quo veniam. Nostrum voluptate rerum accusamus omnis voluptas pariatur qui tenetur eaque a vero repellat, eos ab, est vitae impedit dignissimos incidunt amet asperiores aspernatur debitis aliquid praesentium. Quibusdam quisquam veritatis officia tempora sed repudiandae aliquam ad iste id quia enim illum ab voluptate nobis voluptates a, distinctio dignissimos. Quod, aliquid? Provident atque maxime soluta eius recusandae dignissimos fugit, tempora consequatur vitae perspiciatis itaque maiores autem quam molestiae quos culpa delectus similique, eum repellat voluptatum sapiente dolores doloremque. Tempora laudantium explicabo dolor quas libero tenetur magni id distinctio eligendi repellat eos, quis hic expedita ex perferendis quia, error delectus doloremque. Perspiciatis corrupti cumque laboriosam blanditiis eos officia aut unde alias qui quos! Dolorum aperiam consectetur enim ab pariatur doloribus dolorem placeat.
       </p>
     </div>
   );
